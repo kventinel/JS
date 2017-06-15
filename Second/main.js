@@ -1,7 +1,3 @@
-/**
- * Created by alex on 6/15/17.
- */
-
 var routes = [['Madrid', 'Barcelona'], ['Barcelona', 'Gerona'],
              ['Gerona', 'Stockholm'], ['Stockholm', 'New York']];
 var cities = {};
